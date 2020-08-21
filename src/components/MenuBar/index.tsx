@@ -52,19 +52,18 @@ const MenuBar: React.FC = () => {
         <Button>
           <span>Tweetar</span>
         </Button>
-
-        <Botside>
-          <Avatar />
-
-          <ProfileData>
-            <strong>Willian Petri</strong>
-            <span>@wopetri</span>
-          </ProfileData>
-
-          <ExitIcon />
-        </Botside>
-        
       </Topside>
+
+      <Botside>
+        <Avatar />
+
+        <ProfileData>
+          <strong>Willian Petri</strong>
+          <span>@wopetri</span>
+        </ProfileData>
+
+        <ExitIcon />
+      </Botside>
     </Container>
   );
 }

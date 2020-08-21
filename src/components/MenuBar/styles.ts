@@ -1,7 +1,7 @@
 import styled, {css} from "styled-components";
 
 import {
-  Home,
+  Home, 
   Notifications,
   Email,
   FavoriteBorder,
