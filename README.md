@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project was developed at the Rocketseat UI Clone youtube channel with the following technologies:
 
